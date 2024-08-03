@@ -8,8 +8,8 @@ This repository is a collection of my coursework for the Master of Science in Ap
 ### Completed Modules
 
 - **Big Data Fundamentals** (10 credits) - 75%
-- **Big Data Tools & Techniques** (10 credits) - 68%
 - **Foundations of Probability & Statistics** (20 credits) - 85%
+- **Big Data Tools & Techniques** (10 credits) - 68%
 - **Data Analytics in R** (20 credits) - 81%
 - **Machine Learning for Data Analytics** (20 credits) - 82%
 
