@@ -14,12 +14,8 @@ This repository is a collection of my coursework for the Master of Science in Ap
 - **Machine Learning for Data Analytics** (20 credits) - 82%
 - **Statistical Modelling & Analysis** (20 credits) - 83% 
 - **Quantitative Risk Analysis** (10 credits) - 78%
-
-### Modules in Progress
-
-
-- **Financial Econometrics** (10 credits)
+- **Financial Econometrics** (10 credits) - 79%
 
 ### Dissertation
 
-**Dissertation** (60 credits) - Topic yet to be confirmed
+**Dissertation** (60 credits) - Congestion Modelling and Locational Spread Trading in the European Energy Markets
